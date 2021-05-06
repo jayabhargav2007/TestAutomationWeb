@@ -1,0 +1,3 @@
+runner\RunCuke.class
+cucumbersteps\MyAccountStepDefinition.class
+cucumbersteps\RegistrationProcess.class
