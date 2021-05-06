@@ -1,5 +1,7 @@
 package steps;
 
+import org.junit.Assert;
+
 import net.thucydides.core.annotations.Step;
 import pages.RegisterLink;
 

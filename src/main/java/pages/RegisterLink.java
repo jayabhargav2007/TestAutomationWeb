@@ -10,8 +10,6 @@ import net.thucydides.core.pages.PageObject;
 public class RegisterLink extends BasePage{
 
 	
-	
-	//String newCarMenu = "xpath=//span[@class='margin-right5 top-nav-label-text'][contains(text(),'New Cars')]";
 	String RegisterLink = "css=button[id='requestRegisterFormButton']";
 	String Email="id=registration-form-email";
 	String Password="id=registration-form-password";
